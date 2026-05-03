@@ -62,7 +62,7 @@ uvicorn main:app --reload
 cd frontend
 
 # 브라우저에서 index.html 파일 열기
-```
+python -m http.server 5500
 
 ## 📂 프로젝트 구조
 ```
